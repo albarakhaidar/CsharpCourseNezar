@@ -1,0 +1,7 @@
+C:\Users\haidar.albarak\source\repos\MyFirstVeriable\MyFirstVeriable\bin\Debug\MyFirstVeriable.exe.config
+C:\Users\haidar.albarak\source\repos\MyFirstVeriable\MyFirstVeriable\bin\Debug\MyFirstVeriable.exe
+C:\Users\haidar.albarak\source\repos\MyFirstVeriable\MyFirstVeriable\bin\Debug\MyFirstVeriable.pdb
+C:\Users\haidar.albarak\source\repos\MyFirstVeriable\MyFirstVeriable\obj\Debug\MyFirstVeriable.csprojResolveAssemblyReference.cache
+C:\Users\haidar.albarak\source\repos\MyFirstVeriable\MyFirstVeriable\obj\Debug\MyFirstVeriable.csproj.CoreCompileInputs.cache
+C:\Users\haidar.albarak\source\repos\MyFirstVeriable\MyFirstVeriable\obj\Debug\MyFirstVeriable.exe
+C:\Users\haidar.albarak\source\repos\MyFirstVeriable\MyFirstVeriable\obj\Debug\MyFirstVeriable.pdb
