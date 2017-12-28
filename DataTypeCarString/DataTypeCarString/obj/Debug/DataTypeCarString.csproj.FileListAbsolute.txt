@@ -1,0 +1,7 @@
+C:\Users\haidar.albarak\source\repos\DataTypeCarString\DataTypeCarString\bin\Debug\DataTypeCarString.exe.config
+C:\Users\haidar.albarak\source\repos\DataTypeCarString\DataTypeCarString\bin\Debug\DataTypeCarString.exe
+C:\Users\haidar.albarak\source\repos\DataTypeCarString\DataTypeCarString\bin\Debug\DataTypeCarString.pdb
+C:\Users\haidar.albarak\source\repos\DataTypeCarString\DataTypeCarString\obj\Debug\DataTypeCarString.csprojResolveAssemblyReference.cache
+C:\Users\haidar.albarak\source\repos\DataTypeCarString\DataTypeCarString\obj\Debug\DataTypeCarString.csproj.CoreCompileInputs.cache
+C:\Users\haidar.albarak\source\repos\DataTypeCarString\DataTypeCarString\obj\Debug\DataTypeCarString.exe
+C:\Users\haidar.albarak\source\repos\DataTypeCarString\DataTypeCarString\obj\Debug\DataTypeCarString.pdb
