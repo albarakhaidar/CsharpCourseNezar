@@ -1,0 +1,7 @@
+C:\Users\haidar.albarak\source\repos\DataTypes.floatpointType\DataTypes.floatpointType\bin\Debug\DataTypes.floatpointType.exe.config
+C:\Users\haidar.albarak\source\repos\DataTypes.floatpointType\DataTypes.floatpointType\bin\Debug\DataTypes.floatpointType.exe
+C:\Users\haidar.albarak\source\repos\DataTypes.floatpointType\DataTypes.floatpointType\bin\Debug\DataTypes.floatpointType.pdb
+C:\Users\haidar.albarak\source\repos\DataTypes.floatpointType\DataTypes.floatpointType\obj\Debug\DataTypes.floatpointType.csprojResolveAssemblyReference.cache
+C:\Users\haidar.albarak\source\repos\DataTypes.floatpointType\DataTypes.floatpointType\obj\Debug\DataTypes.floatpointType.csproj.CoreCompileInputs.cache
+C:\Users\haidar.albarak\source\repos\DataTypes.floatpointType\DataTypes.floatpointType\obj\Debug\DataTypes.floatpointType.exe
+C:\Users\haidar.albarak\source\repos\DataTypes.floatpointType\DataTypes.floatpointType\obj\Debug\DataTypes.floatpointType.pdb
