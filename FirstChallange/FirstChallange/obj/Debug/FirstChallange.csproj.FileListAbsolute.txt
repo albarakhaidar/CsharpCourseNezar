@@ -1,0 +1,7 @@
+C:\Users\haidar.albarak\source\repos\FirstChallange\FirstChallange\bin\Debug\FirstChallange.exe.config
+C:\Users\haidar.albarak\source\repos\FirstChallange\FirstChallange\bin\Debug\FirstChallange.exe
+C:\Users\haidar.albarak\source\repos\FirstChallange\FirstChallange\bin\Debug\FirstChallange.pdb
+C:\Users\haidar.albarak\source\repos\FirstChallange\FirstChallange\obj\Debug\FirstChallange.csprojResolveAssemblyReference.cache
+C:\Users\haidar.albarak\source\repos\FirstChallange\FirstChallange\obj\Debug\FirstChallange.csproj.CoreCompileInputs.cache
+C:\Users\haidar.albarak\source\repos\FirstChallange\FirstChallange\obj\Debug\FirstChallange.exe
+C:\Users\haidar.albarak\source\repos\FirstChallange\FirstChallange\obj\Debug\FirstChallange.pdb
