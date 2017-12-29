@@ -1,0 +1,7 @@
+C:\Users\haidar.albarak\source\repos\OperatingPluseMiuse\OperatingPluseMiuse\obj\Debug\OperatingPluseMiuse.csprojResolveAssemblyReference.cache
+C:\Users\haidar.albarak\source\repos\OperatingPluseMiuse\OperatingPluseMiuse\obj\Debug\OperatingPluseMiuse.csproj.CoreCompileInputs.cache
+C:\Users\haidar.albarak\source\repos\OperatingPluseMiuse\OperatingPluseMiuse\bin\Debug\OperatingPluseMiuse.exe.config
+C:\Users\haidar.albarak\source\repos\OperatingPluseMiuse\OperatingPluseMiuse\bin\Debug\OperatingPluseMiuse.exe
+C:\Users\haidar.albarak\source\repos\OperatingPluseMiuse\OperatingPluseMiuse\bin\Debug\OperatingPluseMiuse.pdb
+C:\Users\haidar.albarak\source\repos\OperatingPluseMiuse\OperatingPluseMiuse\obj\Debug\OperatingPluseMiuse.exe
+C:\Users\haidar.albarak\source\repos\OperatingPluseMiuse\OperatingPluseMiuse\obj\Debug\OperatingPluseMiuse.pdb
