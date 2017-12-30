@@ -1,0 +1,7 @@
+C:\Users\haidar.albarak\source\repos\UniarryOperations\UniarryOperations\bin\Debug\UniarryOperations.exe.config
+C:\Users\haidar.albarak\source\repos\UniarryOperations\UniarryOperations\bin\Debug\UniarryOperations.exe
+C:\Users\haidar.albarak\source\repos\UniarryOperations\UniarryOperations\bin\Debug\UniarryOperations.pdb
+C:\Users\haidar.albarak\source\repos\UniarryOperations\UniarryOperations\obj\Debug\UniarryOperations.csprojResolveAssemblyReference.cache
+C:\Users\haidar.albarak\source\repos\UniarryOperations\UniarryOperations\obj\Debug\UniarryOperations.csproj.CoreCompileInputs.cache
+C:\Users\haidar.albarak\source\repos\UniarryOperations\UniarryOperations\obj\Debug\UniarryOperations.exe
+C:\Users\haidar.albarak\source\repos\UniarryOperations\UniarryOperations\obj\Debug\UniarryOperations.pdb
