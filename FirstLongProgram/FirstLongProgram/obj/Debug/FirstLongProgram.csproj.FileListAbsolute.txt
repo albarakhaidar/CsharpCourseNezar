@@ -1,0 +1,7 @@
+C:\Users\haidar.albarak\source\repos\FirstLongProgram\FirstLongProgram\obj\Debug\FirstLongProgram.csproj.CoreCompileInputs.cache
+C:\Users\haidar.albarak\source\repos\FirstLongProgram\FirstLongProgram\bin\Debug\FirstLongProgram.exe.config
+C:\Users\haidar.albarak\source\repos\FirstLongProgram\FirstLongProgram\bin\Debug\FirstLongProgram.exe
+C:\Users\haidar.albarak\source\repos\FirstLongProgram\FirstLongProgram\bin\Debug\FirstLongProgram.pdb
+C:\Users\haidar.albarak\source\repos\FirstLongProgram\FirstLongProgram\obj\Debug\FirstLongProgram.exe
+C:\Users\haidar.albarak\source\repos\FirstLongProgram\FirstLongProgram\obj\Debug\FirstLongProgram.pdb
+C:\Users\haidar.albarak\source\repos\FirstLongProgram\FirstLongProgram\obj\Debug\FirstLongProgram.csprojResolveAssemblyReference.cache
